@@ -2,7 +2,12 @@
 
 We are a group that does reading groups every week to learn more about machine learning. 
 
-We recommend this structure. Allows for tangents to learn more 
+We follow this structure: 
+- what does the paper introduce
+- data 
+- training/finetuning
+- evaluation
+- discussion
 
 
 Completed Papers 
