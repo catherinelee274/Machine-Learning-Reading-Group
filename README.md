@@ -16,3 +16,5 @@ We follow this structure:
 Completed Papers 
 - Lora
 - Rag
+
+^^^ADD LINKS TO PAPERS 
