@@ -2,7 +2,7 @@
 
 Authors: @edwardyang12 @catherinelee274
 
-We like to read machine learning papers.
+We like to read machine learning papers (roughly) every week!
 
 
 We follow this structure: 
