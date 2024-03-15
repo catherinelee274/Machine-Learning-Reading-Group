@@ -1,6 +1,9 @@
-# ml_reading_group
+# ML Reading Group
 
-We are a group that does reading groups every week to learn more about machine learning. 
+Authors: @edwardyang12 @catherinelee274
+
+We like to read machine learning papers.
+
 
 We follow this structure: 
 - what does the paper introduce
