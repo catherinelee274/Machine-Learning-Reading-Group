@@ -1,4 +1,4 @@
-# Learning Transferable Visual Models From Natural Language Supervision
+# 03/17/2024 Learning Transferable Visual Models From Natural Language Supervision
 
 ## Paper 
 https://arxiv.org/pdf/2103.00020.pdf
