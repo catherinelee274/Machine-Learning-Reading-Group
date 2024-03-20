@@ -13,9 +13,11 @@ We follow this structure:
 - discussion
 
 
-Completed Papers 
-- Lora
-- Rag
+Papers we would like to read
+- [x] Low Rank Adaptation
+- [x] Contrastive Language-Image Pretraining 
+- [x] Retrieval Augmented Generation
+- [ ] Deepseed
 
 TODO 
 - chaneg to pdf
