@@ -13,8 +13,8 @@ We follow this structure:
 - discussion
 
 
-Papers we would like to read
-- [x] Low Rank Adaptation
+# Papers 
+- [x] Low Rank Adaptation (need to insert date)
 - [x] Contrastive Language-Image Pretraining 
 - [x] Retrieval Augmented Generation
 - [ ] Deepseed
