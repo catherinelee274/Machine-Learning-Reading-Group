@@ -17,8 +17,8 @@ We follow this structure:
 - [x] Low Rank Adaptation (need to insert date)
 - [x] Contrastive Language-Image Pretraining 
 - [x] Retrieval Augmented Generation
-- [ ] Deepseed
-
+- [ ] Deepseed 03/24/2024
+- [ ] 
 TODO 
 - chaneg to pdf
 - ^^^ADD LINKS TO PAPERS 
