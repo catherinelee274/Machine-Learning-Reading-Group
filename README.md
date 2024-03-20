@@ -17,4 +17,7 @@ Completed Papers
 - Lora
 - Rag
 
-^^^ADD LINKS TO PAPERS 
+TODO 
+- chaneg to pdf
+- ^^^ADD LINKS TO PAPERS 
+- make public 
