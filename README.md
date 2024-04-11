@@ -14,7 +14,7 @@ We follow this structure:
 
 
 # Papers 
-- [x] Low Rank Adaptation (need to insert date)
+- [x] [Low Rank Adaptation](https://arxiv.org/abs/2106.09685) (need to insert date)
 - [x] Contrastive Language-Image Pretraining 
 - [x] Retrieval Augmented Generation
 - [x] Deepseed 03/24/2024
