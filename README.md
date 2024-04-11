@@ -14,12 +14,20 @@ We follow this structure:
 
 
 # Papers 
+- [x] Flash Attention
 - [x] [Low Rank Adaptation](https://arxiv.org/abs/2106.09685) (need to insert date)
-- [x] Contrastive Language-Image Pretraining 
+- [x] Big Bird
+- [x] Flash Attention
+- [x] Power of Scale for prompt tuning
+- [x] Nerf
 - [x] Retrieval Augmented Generation
+- [x] Survey on Deep Reinforcement Learning
+- [x] [Latent Diffusion Models](https://arxiv.org/abs/2112.10752) 1/7/2023
+- [x] Mixture of Experts
+- [x] [Direct Preference Optimization](https://arxiv.org/abs/2305.18290)
+- [x] Mappo
+- [x] Mamba
+- [x] Contrastive Language-Image Pretraining 
 - [x] Deepseed 03/24/2024
 - [x] Llama 03/31/2024
 - [ ] Multimodal 4/14/2024
-- chaneg to pdf
-- ^^^ADD LINKS TO PAPERS 
-- make public 
