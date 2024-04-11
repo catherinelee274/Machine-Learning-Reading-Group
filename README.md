@@ -17,9 +17,9 @@ We follow this structure:
 - [x] Low Rank Adaptation (need to insert date)
 - [x] Contrastive Language-Image Pretraining 
 - [x] Retrieval Augmented Generation
-- [ ] Deepseed 03/24/2024
-- [ ] Llama
-- [ ] Multimodal
+- [x] Deepseed 03/24/2024
+- [x] Llama 03/31/2024
+- [ ] Multimodal 4/14/2024
 - chaneg to pdf
 - ^^^ADD LINKS TO PAPERS 
 - make public 
