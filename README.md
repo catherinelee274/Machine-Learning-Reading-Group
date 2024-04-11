@@ -14,7 +14,9 @@ We follow this structure:
 
 
 # Papers 
-- [x] Flash Attention
+- [x] Formal Algorithms for Transformers
+- [ ] [Power of Scale For Prompt Finetuning](https://arxiv.org/abs/2104.08691)
+- [ ] Flash Attention
 - [x] [Low Rank Adaptation](https://arxiv.org/abs/2106.09685) (need to insert date)
 - [x] Big Bird
 - [x] Flash Attention
@@ -27,7 +29,7 @@ We follow this structure:
 - [x] [Direct Preference Optimization](https://arxiv.org/abs/2305.18290)
 - [x] Mappo
 - [x] Mamba
-- [x] Contrastive Language-Image Pretraining 
-- [x] Deepseed 03/24/2024
-- [x] Llama 03/31/2024
-- [ ] Multimodal 4/14/2024
+- [x] Contrastive Language-Image Pretraining 03/17/2024
+- [x] [Deepseed Inference](https://arxiv.org/abs/2207.00032) 03/24/2024
+- [x] [Llama](https://arxiv.org/abs/2302.13971) 03/31/2024
+- [ ] [Multimodal Learning with Transformers](https://arxiv.org/abs/2206.06488) 4/14/2024
