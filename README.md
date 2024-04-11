@@ -15,8 +15,8 @@ We follow this structure:
 
 # Papers 
 - [x] Formal Algorithms for Transformers
-- [ ] [Power of Scale For Prompt Finetuning](https://arxiv.org/abs/2104.08691)
-- [ ] Flash Attention
+- [x] [Power of Scale For Prompt Finetuning](https://arxiv.org/abs/2104.08691)
+- [x] Flash Attention
 - [x] [Low Rank Adaptation](https://arxiv.org/abs/2106.09685) (need to insert date)
 - [x] Big Bird
 - [x] Flash Attention
