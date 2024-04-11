@@ -1,4 +1,4 @@
-# ML Reading Group
+# Machine Learning Reading Group
 
 Authors: @edwardyang12 @catherinelee274
 
