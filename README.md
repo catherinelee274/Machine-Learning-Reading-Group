@@ -1,5 +1,5 @@
 # Machine Learning Reading Group
-![image](readmeImage.png){width=100 height=20}
+![image](readmeImage.png){width=50 height=20}
 
 
 Authors: @edwardyang12 @catherinelee274
