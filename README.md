@@ -1,5 +1,5 @@
 # Machine Learning Reading Group
-![image](readmeImage.png)
+![image](images/readmeImage.png)
 
 
 Authors: @edwardyang12 @catherinelee274
