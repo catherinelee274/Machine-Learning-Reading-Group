@@ -1,4 +1,6 @@
 # Machine Learning Reading Group
+![image](readmeImage.png)
+
 
 Authors: @edwardyang12 @catherinelee274
 
