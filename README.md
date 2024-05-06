@@ -35,3 +35,4 @@ We follow this structure:
 - [x] [Deepseed Inference](https://arxiv.org/abs/2207.00032) 03/24/2024
 - [x] [Llama](https://arxiv.org/abs/2302.13971) 03/31/2024
 - [ ] [Multimodal Learning with Transformers](https://arxiv.org/abs/2206.06488) 4/14/2024
+- [ ] Chinchilla 5/5/2024
