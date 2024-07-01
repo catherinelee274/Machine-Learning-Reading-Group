@@ -36,3 +36,5 @@ We follow this structure:
 - [x] [Llama](https://arxiv.org/abs/2302.13971) 03/31/2024
 - [ ] [Multimodal Learning with Transformers](https://arxiv.org/abs/2206.06488) 4/14/2024
 - [ ] Chinchilla 5/5/2024
+- [x] Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B: A Technical Report 6/30/2024
+
