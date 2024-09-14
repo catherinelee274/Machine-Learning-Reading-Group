@@ -21,17 +21,20 @@ We follow this structure:
 - [x] Flash Attention
 - [x] [Low Rank Adaptation](https://arxiv.org/abs/2106.09685) (need to insert date)
 - [x] Big Bird
-- [x] Flash Attention
-- [x] Power of Scale for prompt tuning
+- [x] [Flash Attention](https://arxiv.org/abs/2205.14135)
+- [x] [Power of Scale for prompt tuning](https://arxiv.org/abs/2104.08691)
 - [x] Nerf
 - [x] Retrieval Augmented Generation
 - [x] Survey on Deep Reinforcement Learning
 - [x] [Latent Diffusion Models](https://arxiv.org/abs/2112.10752) 1/7/2023
-- [x] Mixture of Experts
+- [x] [Mixture of Experts]()
 - [x] [Direct Preference Optimization](https://arxiv.org/abs/2305.18290)
 - [x] Mappo
 - [x] Mamba
-- [x] Contrastive Language-Image Pretraining 03/17/2024
+- [x] [Contrastive Language-Image Pretraining](https://arxiv.org/abs/2103.00020) 03/17/2024
 - [x] [Deepseed Inference](https://arxiv.org/abs/2207.00032) 03/24/2024
 - [x] [Llama](https://arxiv.org/abs/2302.13971) 03/31/2024
 - [ ] [Multimodal Learning with Transformers](https://arxiv.org/abs/2206.06488) 4/14/2024
+- [ ] Chinchilla 5/5/2024
+- [x] Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B: A Technical Report 6/30/2024
+
